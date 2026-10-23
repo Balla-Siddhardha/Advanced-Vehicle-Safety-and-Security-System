@@ -5,9 +5,9 @@
 <p align="center">Fig:  Block Diagram</p>
 
 
-**Technologies used:**  Arduino, C, GPS, GSM, Gyroscope.
+**Technologies used:**  Arduino, C programming language, GPS, GSM, Gyroscope.
 
-**Hardware Components:**  Arduino Mega, 16*2 LCD Display, 4*4 Matrix Membrane Keypad, MQ-3 Alcohol sensor, IR Sensor, L298 Motor Driver, DC Motor(as vehicle engine), LM 393 Speed sensor, Gyroscope, NEO-6M GPS Module, SIM900D GSM Module, Buzzer, Potentiometer(as vehicle accelerator).
+**Hardware Components:**  Arduino Mega, 16 * 2 LCD Display, 4*4 Matrix Membrane Keypad, MQ-3 Alcohol sensor, L298 Motor Driver, DC Motor(as vehicle engine), LM 393 Speed sensor, Gyroscope, NEO-6M GPS Module, SIM900D GSM Module, Buzzer, Potentiometer(as vehicle accelerator).
 
 **Working Principle:**  
 
