@@ -59,3 +59,8 @@ Fig:  Accident detection message sent
 2. **Improved Alcohol Detection:** Use a properly calibrated alcohol detection system with better selectivity, continuous monitoring, and a fail-safe mechanism to prevent unsafe vehicle operation.
 3. **IoT-Based Monitoring:** Develop a mobile application or web dashboard to monitor vehicle speed, alcohol detection status, lock status, and accident alerts remotely.
 
+**My contribution:**
+1. Served as the team leader and coordinated the project development activities.
+2. Designed the circuit layout based on the project requirements.
+3. Developed the program code to implement the project functionality.
+4. Assembled the hardware setup by making the required circuit connections and interfacing the components.
