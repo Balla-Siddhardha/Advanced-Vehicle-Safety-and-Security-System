@@ -45,5 +45,17 @@ Fig:  Accident detection timer
 
 Fig:  Accident detection message sent
 
-**Limitations & Future Improvements:**
+**Limitations:**
+
+1. The system may be vulnerable to password guessing or unauthorized access if a simple password is used.
+2. The alcohol sensor may produce false readings due to environmental factors.
+3. The gyroscope may generate false accident alerts due to sudden braking, potholes, or sharp turns. Minor accidents may go undetected if the sensor thresholds are not properly calibrated.
+4. GPS signals may be weak indoors or in tunnels, while GSM network failures or poor signal strength may delay or prevent emergency messages from being delivered.
+
+
+**Future Improvements:**
+
+1. **Advanced Vehicle Authentication:** Integrate RFID, biometric authentication, or a mobile application with encrypted communication to improve vehicle security.
+2. **Improved Alcohol Detection:** Use a properly calibrated alcohol detection system with better selectivity, continuous monitoring, and a fail-safe mechanism to prevent unsafe vehicle operation.
+3. **IoT-Based Monitoring:** Develop a mobile application or web dashboard to monitor vehicle speed, alcohol detection status, lock status, and accident alerts remotely.
 
