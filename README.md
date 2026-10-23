@@ -1,7 +1,7 @@
 # Advanced Vehicle Safety and Security System
 **Overview:**   This project is related to Embedded System with features like Password based lock, Automatic speed limiter, Alcohol detection and transmit location details through GSM to emergency contacts during any accident.
 
-<img width="1280" height="516" alt="block diagram" src="https://github.com/user-attachments/assets/a8abee8e-bdb2-428a-80c6-dc3ffe5148d3" />
+
 <p align="center">Fig:  Block Diagram</p>
 
 
